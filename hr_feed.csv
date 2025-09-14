@@ -1,0 +1,6 @@
+employee_id,name,department,start_date,end_date,status
+101,Alice Green,Finance,2021-05-01,,Active
+102,Bob White,HR,2020-08-15,2023-07-01,Terminated
+103,Carlos Brown,IT,2022-03-01,,Active
+104,Diana Black,Finance,2023-01-01,,Active
+105,Eva Gray,Sales,2021-10-01,2023-09-01,Terminated
